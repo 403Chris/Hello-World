@@ -1,2 +1,3 @@
 # Hello-World
-My Very First Repository
+My First Branch
+Learning Git Step by Step
